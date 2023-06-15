@@ -1,4 +1,3 @@
-import math
 def right_justify(s):
     b = 70 - len(s) - 1
     if b<0:
@@ -6,4 +5,4 @@ def right_justify(s):
     else:
         l =' ' * b + s
         print(l)
-right_justify('mrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmrazmraz')
+right_justify('monty')
