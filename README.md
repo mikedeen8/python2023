@@ -14,7 +14,7 @@ python3 script.py
 - ls - показать файлы в текущей директории
 - cd <path> - перейти в директорию 
 - pwd - показать текущую директорию
-- 
+- mkdir mraz - create a new folder
 # Git commands
 - git checkout - перейти на ветку
 - git checkout -b - создать новую ветку и перейти на нее(!новая ветка является копией предыдущей!)
