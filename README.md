@@ -13,7 +13,7 @@ python3 script.py
 # Terminal commands (Unix)
 - ls - показать файлы в текущей директории
 - cd <path> - перейти в директорию 
-- pwd - показать текущую диюректорию
+- pwd - показать текущую директорию
 - 
 # Git commands
 - git checkout - перейти на ветку
