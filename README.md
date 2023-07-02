@@ -15,6 +15,7 @@ python3 script.py
 - cd <path> - перейти в директорию 
 - pwd - показать текущую директорию
 - mkdir mraz - create a new folder
+- mraz test 2 - mrazlemania
 # Git commands
 - git checkout - перейти на ветку
 - git checkout -b - создать новую ветку и перейти на нее(!новая ветка является копией предыдущей!)
