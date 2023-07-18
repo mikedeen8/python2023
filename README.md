@@ -6,6 +6,8 @@ Chapter 2 is finished!
 Chapter 3 is finished!
 
 Chapter 4 is finished!
+
+Chapter 5 is finished!
 # Run
 ```
 python3 script.py
@@ -13,8 +15,9 @@ python3 script.py
 # Terminal commands (Unix)
 - ls - показать файлы в текущей директории
 - cd <path> - перейти в директорию 
-- pwd - показать текущую диюректорию
-- 
+- pwd - показать текущую директорию
+- mkdir mraz - create a new folder
+- mraz test 2 - mrazlemania
 # Git commands
 - git checkout - перейти на ветку
 - git checkout -b - создать новую ветку и перейти на нее(!новая ветка является копией предыдущей!)
