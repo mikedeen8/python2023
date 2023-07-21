@@ -3,4 +3,5 @@ def string(s):
     while i <= len(s):
         print(s[-i])
         i += 1
+
 string('good')
