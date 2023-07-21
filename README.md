@@ -10,6 +10,8 @@ Chapter 4 is finished!
 Chapter 5 is finished!
 
 Chapter 6 is finished!
+
+Chapter 7 is finished!
 # Run
 ```
 python3 script.py
