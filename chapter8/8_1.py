@@ -10,4 +10,3 @@ def s_replace(a, y):
         return s_replace(a, y)
 
 # print(s_replace('qwerty', 'y'))
-
