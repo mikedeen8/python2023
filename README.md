@@ -16,6 +16,8 @@ Chapter 7 is finished!
 Chapter 8 is finished!
 
 Chapter 9 is finished!
+
+Chapter 10 is finished!
 # Run
 ```
 python3 script.py
